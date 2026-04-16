@@ -1,4 +1,4 @@
-# Implementation Intelligence Engine
+# AI Implementation Copilot
 
 AI-powered system to convert messy implementation updates into actionable insights.
 
