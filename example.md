@@ -1,4 +1,5 @@
 📌 Example: Handling a Delayed Implementation
+
 🔹 Raw Update (Input)
 
 “Client requested additional integration with CRM. Timeline might shift by a week. Waiting on API access. Team is still unclear on final scope.”
