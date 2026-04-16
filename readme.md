@@ -77,7 +77,7 @@ Insights + Actions + Summaries
 - Prompt Engineering
 
 # Demo
-[Add your demo video link here]
+[https://www.loom.com/share/8dcfedb5fa034c0985ba1539dc88e895]
 
 # Key Insight
 This project separates:
